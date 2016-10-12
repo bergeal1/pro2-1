@@ -7,6 +7,7 @@ public class HiGit {
 		System.out.println("Hi GIT! My second commit!");
 
 		System.out.println("Hi GIT! My second commit!");
+		System.out.println("Hi GIT! My second commit!");
 	}
 
 }
